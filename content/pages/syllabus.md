@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, a field trip to the RNA Platform at the
+  Broad Institute of MIT and Harvard, and the schedule of course topics and assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
